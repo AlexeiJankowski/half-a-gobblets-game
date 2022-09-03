@@ -1,0 +1,15 @@
+/home/oleksii/Projects/gobblets/bin/Debug/net6.0/gobblets
+/home/oleksii/Projects/gobblets/bin/Debug/net6.0/gobblets.deps.json
+/home/oleksii/Projects/gobblets/bin/Debug/net6.0/gobblets.runtimeconfig.json
+/home/oleksii/Projects/gobblets/bin/Debug/net6.0/gobblets.dll
+/home/oleksii/Projects/gobblets/bin/Debug/net6.0/gobblets.pdb
+/home/oleksii/Projects/gobblets/obj/Debug/net6.0/gobblets.csproj.AssemblyReference.cache
+/home/oleksii/Projects/gobblets/obj/Debug/net6.0/gobblets.GeneratedMSBuildEditorConfig.editorconfig
+/home/oleksii/Projects/gobblets/obj/Debug/net6.0/gobblets.AssemblyInfoInputs.cache
+/home/oleksii/Projects/gobblets/obj/Debug/net6.0/gobblets.AssemblyInfo.cs
+/home/oleksii/Projects/gobblets/obj/Debug/net6.0/gobblets.csproj.CoreCompileInputs.cache
+/home/oleksii/Projects/gobblets/obj/Debug/net6.0/gobblets.dll
+/home/oleksii/Projects/gobblets/obj/Debug/net6.0/refint/gobblets.dll
+/home/oleksii/Projects/gobblets/obj/Debug/net6.0/gobblets.pdb
+/home/oleksii/Projects/gobblets/obj/Debug/net6.0/gobblets.genruntimeconfig.cache
+/home/oleksii/Projects/gobblets/obj/Debug/net6.0/ref/gobblets.dll
